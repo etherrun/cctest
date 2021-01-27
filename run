@@ -1,0 +1,3 @@
+#!/bin/bash
+export DEBUG="cctest:*"
+node index.js
